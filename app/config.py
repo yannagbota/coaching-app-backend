@@ -10,8 +10,10 @@ class Settings(BaseSettings):
     food_recognition_api_key: str = ""
     food_recognition_provider: str = "mock"
     allowed_origins: str = "http://localhost:5173"
-    @property def allowed_origins_list(self) -> list[str]: return [o.strip() for o in self.allowed_origins.split(",") if o.strip()]
-    
+    @property
+    def allowed_origins_list(self) -> list[str]:
+        return [o.strip() for o in self.allowed_origins.split(",") if o.strip()]
+
 
     class Config:
         env_file = ".env"
