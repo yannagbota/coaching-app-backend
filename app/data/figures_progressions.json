@@ -1,0 +1,46 @@
+[
+  {
+    "id": "hand_stand",
+    "nom": "Hand stand (équilibre sur les mains)",
+    "etapes": [
+      {"id": "gainage_epaules", "nom": "Gainage épaules + poirier au mur (tenue statique)", "critere": "30s au mur"},
+      {"id": "poirier_mur_ecarte", "nom": "Poirier dos au mur, mains écartées", "critere": "45s"},
+      {"id": "kick_up", "nom": "Montée en hand stand contre un mur (kick-up)", "critere": "5 montées propres"},
+      {"id": "hand_stand_mur", "nom": "Hand stand tenu contre un mur", "critere": "45s"},
+      {"id": "hand_stand_libre", "nom": "Hand stand en équilibre libre", "critere": "10s sans appui"}
+    ]
+  },
+  {
+    "id": "drapeau",
+    "nom": "Drapeau humain",
+    "etapes": [
+      {"id": "gainage_lateral_avance", "nom": "Gainage latéral avancé + tirage vertical", "critere": "45s par côté"},
+      {"id": "drapeau_assiste", "nom": "Drapeau avec pieds au sol (assisté)", "critere": "10s"},
+      {"id": "drapeau_genoux_flechis", "nom": "Drapeau jambes fléchies", "critere": "8s"},
+      {"id": "drapeau_une_jambe", "nom": "Drapeau une jambe tendue", "critere": "8s"},
+      {"id": "drapeau_complet", "nom": "Drapeau complet, jambes tendues", "critere": "5s"}
+    ]
+  },
+  {
+    "id": "planche",
+    "nom": "Planche (Planche lever)",
+    "etapes": [
+      {"id": "gainage_poignets", "nom": "Renforcement poignets + gainage frog stand", "critere": "20s"},
+      {"id": "tuck_planche", "nom": "Tuck planche (genoux repliés)", "critere": "10s"},
+      {"id": "advanced_tuck", "nom": "Advanced tuck planche", "critere": "8s"},
+      {"id": "straddle_planche", "nom": "Straddle planche (jambes écartées)", "critere": "6s"},
+      {"id": "full_planche", "nom": "Planche complète", "critere": "3s"}
+    ]
+  },
+  {
+    "id": "muscle_up",
+    "nom": "Muscle-up à la barre",
+    "etapes": [
+      {"id": "tractions_strictes", "nom": "Tractions strictes", "critere": "8 répétitions propres"},
+      {"id": "dips_barre", "nom": "Dips à la barre", "critere": "8 répétitions propres"},
+      {"id": "traction_explosive", "nom": "Traction explosive haute poitrine", "critere": "3 répétitions"},
+      {"id": "transition_muscle_up", "nom": "Travail de la transition (négatifs)", "critere": "5 négatifs contrôlés"},
+      {"id": "muscle_up_complet", "nom": "Muscle-up complet", "critere": "1 répétition propre"}
+    ]
+  }
+]

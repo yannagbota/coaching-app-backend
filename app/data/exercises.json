@@ -1,0 +1,17 @@
+[
+  {"id": "squat_gobelet", "nom": "Squat gobelet", "environnements": ["salle", "maison"], "materiel": ["haltere", "kettlebell"], "groupe": "jambes", "objectifs": ["force", "esthetique"], "niveau": "debutant"},
+  {"id": "squat_air", "nom": "Squat au poids du corps", "environnements": ["salle", "maison", "street"], "materiel": [], "groupe": "jambes", "objectifs": ["force", "endurance", "esthetique"], "niveau": "debutant"},
+  {"id": "pompes", "nom": "Pompes", "environnements": ["salle", "maison", "street"], "materiel": [], "groupe": "push", "objectifs": ["force", "esthetique", "explosivite"], "niveau": "debutant"},
+  {"id": "tractions", "nom": "Tractions à la barre", "environnements": ["salle", "street"], "materiel": ["barre_traction"], "groupe": "pull", "objectifs": ["force", "esthetique"], "niveau": "intermediaire"},
+  {"id": "rowing_halteres", "nom": "Rowing haltères", "environnements": ["salle", "maison"], "materiel": ["haltere"], "groupe": "pull", "objectifs": ["force", "esthetique"], "niveau": "debutant"},
+  {"id": "fentes", "nom": "Fentes marchées", "environnements": ["salle", "maison", "street"], "materiel": [], "groupe": "jambes", "objectifs": ["force", "agilite", "esthetique"], "niveau": "debutant"},
+  {"id": "gainage", "nom": "Gainage planche", "environnements": ["salle", "maison", "street"], "materiel": [], "groupe": "core", "objectifs": ["force", "sport"], "niveau": "debutant"},
+  {"id": "burpees", "nom": "Burpees", "environnements": ["maison", "street"], "materiel": [], "groupe": "cardio", "objectifs": ["endurance", "perte_poids", "explosivite"], "niveau": "intermediaire"},
+  {"id": "hip_thrust", "nom": "Hip thrust", "environnements": ["salle", "maison"], "materiel": ["banc"], "groupe": "jambes", "objectifs": ["force", "esthetique"], "niveau": "debutant"},
+  {"id": "developpe_couche", "nom": "Développé couché", "environnements": ["salle"], "materiel": ["barre", "banc"], "groupe": "push", "objectifs": ["force", "esthetique"], "niveau": "intermediaire"},
+  {"id": "mollets_debout", "nom": "Mollets debout", "environnements": ["salle", "maison"], "materiel": ["haltere"], "groupe": "jambes", "objectifs": ["esthetique", "sport"], "niveau": "debutant"},
+  {"id": "etirements_dynamiques", "nom": "Étirements dynamiques", "environnements": ["salle", "maison", "street"], "materiel": [], "groupe": "mobilite", "objectifs": ["souplesse", "sport"], "niveau": "debutant"},
+  {"id": "gainage_lateral", "nom": "Gainage latéral", "environnements": ["salle", "maison", "street"], "materiel": [], "groupe": "core", "objectifs": ["force", "sport"], "niveau": "debutant"},
+  {"id": "sprints_courts", "nom": "Sprints courts", "environnements": ["street"], "materiel": [], "groupe": "cardio", "objectifs": ["vitesse", "explosivite"], "niveau": "intermediaire"},
+  {"id": "sauts_boite", "nom": "Sauts de boîte", "environnements": ["salle", "street"], "materiel": ["boite_plyo"], "groupe": "jambes", "objectifs": ["explosivite"], "niveau": "intermediaire"}
+]
